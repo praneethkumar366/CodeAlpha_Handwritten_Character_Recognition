@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 🧪 How to Run
 Clone the repository:
-git clone https://github.com/yourusername/handwritten-character-recognition.git
+git clone [https://github.com/yourusername/handwritten-character-recognition.git](https://github.com/praneethkumar366/CodeAlpha_Handwritten_Character_Recognition/tree/main)
 cd handwritten-character-recognition
 
 Activate your virtual environment or create one:
